@@ -1,1 +1,1 @@
-# Wisconsin breast cancer data anaylsis using numpy, pandas, seaborn, matplotlib, sklearn, etc.
+# Binaqry classification models. Wisconsin breast cancer classification problem. Used numpy, pandas, seaborn, matplotlib, SMOTE, CM, sklearn, etc.
